@@ -1,0 +1,206 @@
+a14 <= 2.000000 [39 175]
+|	a8 <= 1.250000 [15 136]
+|	|	a4 = u [12 97]
+|	|	|	a3 <= 5.457500 [6 75]
+|	|	|	|	a3 <= 0.520000 [4 13]
+|	|	|	|	|	a2 <= 23.500000 [1 11]
+|	|	|	|	|	|	a15 <= 1.000000 [0 9]: -
+|	|	|	|	|	|	a15 > 1.000000 [1 2]: -
+|	|	|	|	|	a2 > 23.500000 [3 2]
+|	|	|	|	|	|	a2 <= 27.545000 [2 0]: +
+|	|	|	|	|	|	a2 > 27.545000 [1 2]: -
+|	|	|	|	a3 > 0.520000 [2 62]
+|	|	|	|	|	a2 <= 55.210000 [1 62]
+|	|	|	|	|	|	a3 <= 3.562500 [0 54]: -
+|	|	|	|	|	|	a3 > 3.562500 [1 8]
+|	|	|	|	|	|	|	a3 <= 4.042500 [1 0]: +
+|	|	|	|	|	|	|	a3 > 4.042500 [0 8]: -
+|	|	|	|	|	a2 > 55.210000 [1 0]: +
+|	|	|	a3 > 5.457500 [6 22]
+|	|	|	|	a15 <= 0.000000 [6 9]
+|	|	|	|	|	a3 <= 5.500000 [2 0]: +
+|	|	|	|	|	a3 > 5.500000 [4 9]
+|	|	|	|	|	|	a3 <= 7.000000 [0 6]: -
+|	|	|	|	|	|	a3 > 7.000000 [4 3]
+|	|	|	|	|	|	|	a8 <= 0.437500 [1 3]: -
+|	|	|	|	|	|	|	a8 > 0.437500 [3 0]: +
+|	|	|	|	a15 > 0.000000 [0 13]: -
+|	|	a4 = y [2 39]
+|	|	|	a15 <= 1122.500000 [1 39]
+|	|	|	|	a3 <= 0.000000 [1 3]: -
+|	|	|	|	a3 > 0.000000 [0 36]: -
+|	|	|	a15 > 1122.500000 [1 0]: +
+|	|	a4 = l [1 0]: +
+|	|	a4 = t [0 0]: -
+|	a8 > 1.250000 [24 39]
+|	|	a2 <= 50.000000 [24 32]
+|	|	|	a2 <= 39.750000 [16 30]
+|	|	|	|	a2 <= 21.330000 [8 4]
+|	|	|	|	|	a2 <= 18.750000 [3 0]: +
+|	|	|	|	|	a2 > 18.750000 [5 4]
+|	|	|	|	|	|	a2 <= 20.960000 [2 4]
+|	|	|	|	|	|	|	a3 <= 0.605000 [1 0]: +
+|	|	|	|	|	|	|	a3 > 0.605000 [1 4]
+|	|	|	|	|	|	|	|	a8 <= 2.417500 [0 4]: -
+|	|	|	|	|	|	|	|	a8 > 2.417500 [1 0]: +
+|	|	|	|	|	|	a2 > 20.960000 [3 0]: +
+|	|	|	|	a2 > 21.330000 [8 26]
+|	|	|	|	|	a8 <= 4.500000 [4 23]
+|	|	|	|	|	|	a8 <= 2.480000 [4 11]
+|	|	|	|	|	|	|	a3 <= 0.687500 [1 0]: +
+|	|	|	|	|	|	|	a3 > 0.687500 [3 11]
+|	|	|	|	|	|	|	|	a3 <= 3.020000 [0 7]: -
+|	|	|	|	|	|	|	|	a3 > 3.020000 [3 4]
+|	|	|	|	|	|	|	|	|	a8 <= 1.605000 [0 4]: -
+|	|	|	|	|	|	|	|	|	a8 > 1.605000 [3 0]: +
+|	|	|	|	|	|	a8 > 2.480000 [0 12]: -
+|	|	|	|	|	a8 > 4.500000 [4 3]
+|	|	|	|	|	|	a2 <= 29.290000 [4 0]: +
+|	|	|	|	|	|	a2 > 29.290000 [0 3]: -
+|	|	|	a2 > 39.750000 [8 2]
+|	|	|	|	a15 <= 206.000000 [3 2]
+|	|	|	|	|	a3 <= 4.812500 [3 1]: +
+|	|	|	|	|	a3 > 4.812500 [0 1]: -
+|	|	|	|	a15 > 206.000000 [5 0]: +
+|	|	a2 > 50.000000 [0 7]: -
+a14 > 2.000000 [34 6]
+|	a3 <= 0.812500 [2 5]
+|	|	a14 <= 4.000000 [0 4]: -
+|	|	a14 > 4.000000 [2 1]: +
+|	a3 > 0.812500 [32 1]
+|	|	a8 <= 0.020000 [0 1]: -
+|	|	a8 > 0.020000 [32 0]: +
+<Predictions for the Test Set Instances>
+1: Actual: + Predicted: -
+2: Actual: + Predicted: -
+3: Actual: + Predicted: +
+4: Actual: + Predicted: +
+5: Actual: + Predicted: +
+6: Actual: + Predicted: +
+7: Actual: + Predicted: -
+8: Actual: + Predicted: +
+9: Actual: + Predicted: -
+10: Actual: + Predicted: +
+11: Actual: + Predicted: +
+12: Actual: + Predicted: -
+13: Actual: + Predicted: -
+14: Actual: + Predicted: -
+15: Actual: + Predicted: -
+16: Actual: + Predicted: -
+17: Actual: + Predicted: +
+18: Actual: + Predicted: -
+19: Actual: + Predicted: +
+20: Actual: + Predicted: +
+21: Actual: + Predicted: +
+22: Actual: + Predicted: +
+23: Actual: + Predicted: -
+24: Actual: + Predicted: -
+25: Actual: + Predicted: +
+26: Actual: + Predicted: -
+27: Actual: + Predicted: +
+28: Actual: + Predicted: +
+29: Actual: + Predicted: +
+30: Actual: + Predicted: +
+31: Actual: + Predicted: +
+32: Actual: + Predicted: -
+33: Actual: + Predicted: -
+34: Actual: + Predicted: -
+35: Actual: + Predicted: +
+36: Actual: + Predicted: -
+37: Actual: + Predicted: +
+38: Actual: + Predicted: +
+39: Actual: + Predicted: +
+40: Actual: + Predicted: +
+41: Actual: + Predicted: +
+42: Actual: + Predicted: -
+43: Actual: + Predicted: -
+44: Actual: + Predicted: -
+45: Actual: + Predicted: -
+46: Actual: + Predicted: +
+47: Actual: + Predicted: +
+48: Actual: + Predicted: +
+49: Actual: + Predicted: -
+50: Actual: - Predicted: -
+51: Actual: - Predicted: -
+52: Actual: - Predicted: -
+53: Actual: - Predicted: -
+54: Actual: + Predicted: -
+55: Actual: - Predicted: -
+56: Actual: - Predicted: -
+57: Actual: - Predicted: -
+58: Actual: - Predicted: +
+59: Actual: - Predicted: -
+60: Actual: - Predicted: -
+61: Actual: - Predicted: -
+62: Actual: - Predicted: -
+63: Actual: - Predicted: -
+64: Actual: - Predicted: -
+65: Actual: - Predicted: +
+66: Actual: - Predicted: -
+67: Actual: - Predicted: -
+68: Actual: + Predicted: +
+69: Actual: - Predicted: -
+70: Actual: - Predicted: -
+71: Actual: - Predicted: +
+72: Actual: - Predicted: -
+73: Actual: - Predicted: +
+74: Actual: - Predicted: -
+75: Actual: - Predicted: -
+76: Actual: - Predicted: +
+77: Actual: - Predicted: -
+78: Actual: - Predicted: -
+79: Actual: - Predicted: -
+80: Actual: - Predicted: -
+81: Actual: - Predicted: -
+82: Actual: - Predicted: -
+83: Actual: - Predicted: +
+84: Actual: - Predicted: -
+85: Actual: - Predicted: -
+86: Actual: - Predicted: -
+87: Actual: - Predicted: -
+88: Actual: - Predicted: -
+89: Actual: - Predicted: -
+90: Actual: - Predicted: -
+91: Actual: - Predicted: -
+92: Actual: - Predicted: -
+93: Actual: - Predicted: -
+94: Actual: - Predicted: +
+95: Actual: - Predicted: -
+96: Actual: - Predicted: -
+97: Actual: - Predicted: -
+98: Actual: - Predicted: -
+99: Actual: - Predicted: -
+100: Actual: - Predicted: +
+101: Actual: - Predicted: -
+102: Actual: - Predicted: -
+103: Actual: - Predicted: +
+104: Actual: - Predicted: -
+105: Actual: - Predicted: -
+106: Actual: - Predicted: -
+107: Actual: - Predicted: -
+108: Actual: - Predicted: -
+109: Actual: - Predicted: -
+110: Actual: - Predicted: -
+111: Actual: - Predicted: +
+112: Actual: - Predicted: -
+113: Actual: - Predicted: -
+114: Actual: - Predicted: -
+115: Actual: - Predicted: -
+116: Actual: - Predicted: -
+117: Actual: - Predicted: -
+118: Actual: - Predicted: -
+119: Actual: - Predicted: +
+120: Actual: - Predicted: -
+121: Actual: - Predicted: -
+122: Actual: - Predicted: -
+123: Actual: - Predicted: -
+124: Actual: - Predicted: -
+125: Actual: - Predicted: -
+126: Actual: - Predicted: -
+127: Actual: - Predicted: +
+128: Actual: - Predicted: -
+129: Actual: - Predicted: -
+130: Actual: - Predicted: +
+131: Actual: - Predicted: -
+132: Actual: - Predicted: -
+Number of correctly classified: 96 Total number of test instances: 132
